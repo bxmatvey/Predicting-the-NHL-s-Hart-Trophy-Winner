@@ -1,2 +1,2 @@
 # Predicting-the-NHL-s-Hart-Trophy-Winner
-Use data from 2004 to the current 2018 season to predict the NHL's Hart Trophy winner
+Use data from 2004 to the current 2018 season to predict the NHL's Hart Trophy winner using linear and logistic regression in python. 
